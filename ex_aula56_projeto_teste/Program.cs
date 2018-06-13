@@ -6,9 +6,9 @@ namespace ex_aula56_projeto_teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo!");
-            Console.WriteLine("Bom Dia!");
+            Console.WriteLine("Olá Mundo!");           
             Console.WriteLine("Como voce esta hoje?");
+            Console.WriteLine("Tenha um bom dia!");
 
             Console.ReadLine();
         }
